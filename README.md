@@ -1,1 +1,2 @@
 # GanderGapAnalysis.io
+This data visualization is going to analysis the global gender gap from 2016 to 2020. It will visualize the change of the gap in healthcare, education, economic and politics. The datasets are download from WORD BANK and cleaned with excel, the missing values are filled according to the global gender gap report from WORLD ECONOMIC FORUM. I use Tableau as the visualization tool and the website is building based on a free template from TEMPLATED.
